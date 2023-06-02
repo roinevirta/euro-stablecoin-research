@@ -10,3 +10,4 @@ Token address (Avalanche C-Chain),Token address of natively issued token. Do not
 Token address (Ethereum),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
 Token address (Gnosis),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
 Token address (Polygon),Token address of natively issued token. Do not enter bridged token information.,,,,,,,,,,,,
+Repository address,URL of the address containing token or other relevant contracts,https://github.com/AngleProtocol,,,https://github.com/monerium/smart-contracts,,https://github.com/membranefi/euroe-stablecoin,,,,,
