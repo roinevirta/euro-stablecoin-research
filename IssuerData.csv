@@ -14,5 +14,5 @@ Regulatory framework,,,,CAST Framework,Electronic Money Institution,,,Electronic
 Licence number,Identifier related to the licence of a regulated actor,,,,571110-0240,,,32368862,,,,,
 Weblink to regulator service,URL of a service provided by a relevant regulatory authority to check the authenticity of licence information,,,,https://en.fme.is/supervision/supervised-entities/,,,https://euclid.eba.europa.eu/register/pir/view/PSD_EMI/FI_FIN_FSA!32368862,,,,,
 EU regulated,,,,,Yes,,No,Yes,No,No,,,
-MiCA compliant,,,,,Likely,,No,Yes,No,No,,,
+MiCA compliant,Is the token compliant with EU's Markets in Crypto Assets regulation?,,,,,Likely,,No,Yes,No,No,,,
 MiCA token type,Description of how the token is regulated under MiCA,,,,,,Electronic Money Token,,,,,
