@@ -11,3 +11,4 @@ Token address (Ethereum),Token address of natively issued token. Do not enter br
 Token address (Gnosis),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
 Token address (Polygon),Token address of natively issued token. Do not enter bridged token information.,,,,,,,,,,,,
 Repository address,URL of the address containing token or other relevant contracts,https://github.com/AngleProtocol,,,https://github.com/monerium/smart-contracts,,,https://github.com/membranefi/euroe-stablecoin,,,,,
+Token icon address,URL of the token icon,,,,,,,https://dev.euroe.com/persistent/token-icon/svg/256x256.svg,,,,,

@@ -23,9 +23,8 @@ The database includes the following tables:
 
 - CustomerData: includes information related to the customers the issuer serves and the issuer's business model (e.g. information regarding fee structure)
 - DeveloperActivityData: information related to developer activity metrics
-- IssuerData: information directly related to the issuer
+- IssuerData: information directly related to the issuer and to the regulatory and legal aspects of the issuer and the stablecoin
 - MarketCapitalisationData: information about the total number of stablecoins issued
-- RegulatoryAndLegalData: information related to the regulatory and legal aspects of the issuer and the stablecoin
 - ReserveData: information related to the backing and the auditing of the backing assets for fiat stablecoins + information regarding the mechanisms of non-fiat stablecoins
 - SecurityData: information regarding the technical security practices of the stablecoin
 - TokenInformation: information regarding the technical implementation of the token, for example addresses on which the token is implemented at
