@@ -28,3 +28,7 @@ The database includes the following tables:
 - ReserveData: information related to the backing and the auditing of the backing assets for fiat stablecoins + information regarding the mechanisms of non-fiat stablecoins
 - SecurityData: information regarding the technical security practices of the stablecoin
 - TokenInformation: information regarding the technical implementation of the token, for example addresses on which the token is implemented at
+
+## Tips
+
+- Editing CSV files in VS Code is extremely prone to mistakes. This extension might help you a bit: https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv
