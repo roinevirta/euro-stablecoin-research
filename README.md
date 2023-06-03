@@ -5,9 +5,24 @@ This repository aims to serve as an authorative source of information regarding 
 
 ## How to contribute?
 
+### Add to the dataset
+
 Anyone is free to contribute to this repository by making a pull request. All commits should be include a reference where maintainers can verify the legitimacy of the newly asserted information. Referencing the issuer of stablecoin is generally fine, but third-party sources are preferred where available.
 
+You should add your information to the CONTRIBUTORS.md together with your first PR and disclose any conflict of interest that you may have.
+
 Please follow the established format. If you have suggestions regarding the formatting of data or adding new data sets, please contact Juuso Roinevirta.
+
+### Fact-check the dataset
+
+Some of the information in this dataset will inevitable become outdated and sometimes PRs containing false information will be approved by mistake. You can contribute by fact-checking the information provided in this repo.
+
+If you find a mistake, fork the repo, fix the error, and make a PR to fix the error. You should add your information to the CONTRIBUTORS.md together with your first PR and disclose any conflict of interest that you may have.
+
+### Donate
+
+This data-set is provided free of charge for anyone to utilise. If you'd like to buy me a coffee, you can donate to `roinevirta.eth` or `roinevirta.sol`
+
 
 ## What is the data structure like?
 
