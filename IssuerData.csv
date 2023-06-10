@@ -1,18 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Released in,,,,2023,2019,,2022,2023,2018,2020,,,
-Stablecoin type,Is the token fiat-backed or algorithmically backed or crypto-backed,Crypto-backed,,Fiat-backed,Fiat-backed,,Fiat-backed,Fiat-backed,Fiat-backed,Fiat-backed,,,
-Issuer,,,,SG FORGE,Monerium EMI ehf,,"Circle Internet Financial, LLC",Membrane Finance Oy,STSS Limited,Tether Operations Limited,,,
-Issuer is publicly traded,,No,No,No,No,No,,No,No,No,No,No,No
-Exchange on which traded,,,,,,,,,,,,,
-Ticker,,,,,,,,,,,,,
-Domiciled in,,,,France,Iceland,,USA,Finland,Isle of Man,Hong Kong,,,
-EU domiciled,,,,Yes,No,,No,Yes,No,No,,,
-CEO,,,,Jean-Marc Stenger,Sveinn Valfells,,Jeremy Allaire,Juha Viitala,Gregory Klumov,JL van der Velde,,,
-CEO nationality or country of birth,,,,France,Iceland,,USA,Finland,Russia,The Netherlands,,,
-Whitepaper URL,URL containing the whitepaper of the token or project,https://docs.angle.money/overview/whitepapers,,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,,,,,,,,,
-Regulatory framework,,,,CAST Framework,Electronic Money Institution,,,Electronic Money Institution,,,,,
-Licence number,Identifier related to the licence of a regulated actor,,,,571110-0240,,,32368862,,,,,
-Weblink to regulator service,URL of a service provided by a relevant regulatory authority to check the authenticity of licence information,,,,https://en.fme.is/supervision/supervised-entities/,,,https://euclid.eba.europa.eu/register/pir/view/PSD_EMI/FI_FIN_FSA!32368862,,,,,
-EU regulated,,,,,Yes,,No,Yes,No,No,,,
-MiCA compliant,Is the token compliant with EU's Markets in Crypto Assets regulation?,,,,Likely,,No,Yes,No,No,,,
-MiCA token type,Description of how the token is regulated under MiCA,,,,,,,Electronic Money Token,,,,,
+_Ticker,ReleaseYear,StablecoinType,Issuer,IssuerIsPubliclyTraded,PublicTradedExchange,PublicTradedExchangeTicker,DomiciledIn,IsEUDomiciled,NameOfCEO,NationalityOrCountryOfBirthOfCEO,WhitepaperURL,RegulatoryFramework,LicenceNumber,WeblinkToRegulatorService,IsEURegulated,IsMiCACompliant,MiCATokenType
+_DataDescription,Year in which the token was released,"FiatBacked,CryptoBacked,Algorithmic",Name of the legal entity issuing the token,True if the issuer is publicly traded,Name of the exchange on which the issuer is listed,Ticker of the issuer on the exchange on which the issuer is listed,Country or jurisdiction in which the issuer is domiciled in,True if the issuer is domiciled in the EU,Full name of the CEO,"Nationality of the CEO, Country of Birth if nationality is unknown",URL at which the whitepaper of the issuer is available at,Name of the regulatory framework the issuer follows in the EU,Identifier related to the licence of a regulated actor,URL of a service provided by a relevant regulatory authority to check the authenticity of licence information,True if the issuer is regulated under EU law,True if the issuer is MiCA compliant,Description of how the issuer's tokens are regulated under MiCA
+_DataType,Int,String,String,Bool,String,String,String,Bool,String,String,String,String,String,String,Bool,String,String
+agEUR,,CryptoBacked,,FALSE,,,,,,,https://docs.angle.money/overview/whitepapers,,,,,,
+CEUR,,,,,,,,,,,,,,,,,
+EURCV,2023,FiatBacked,SG FORGE,FALSE,,,France,FALSE,Jean-Marc Stenger,France,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,CAST Framework,,,,,
+EURe,2019,FiatBacked,Monerium EMI ehf,FALSE,,,Iceland,FALSE,Sveinn Valfells,Iceland,,Electronic Money Institution,571110-0240,https://en.fme.is/supervision/supervised-entities/,TRUE,Likely,
+EURL,,,,FALSE,,,,,,,,,,,,,
+EUROC,2022,FiatBacked,"Circle Internet Financial, LLC",,,,USA,FALSE,Jeremy Allaire,USA,,,,,FALSE,No,
+EUROe,2023,FiatBacked,Membrane Finance Oy,FALSE,,,Finland,TRUE,Juha Viitala,Finland,,Electronic Money Institution,32368862,https://euclid.eba.europa.eu/register/pir/view/PSD_EMI/FI_FIN_FSA!32368862,TRUE,Yes,EMT
+EURS,2018,FiatBacked,STSS Limited,FALSE,,,Isle of Man,FALSE,Gregory Klumov,Russia,,,,,FALSE,No,
+EURT,2020,FiatBacked,Tether Operations Limited,FALSE,,,Hong Kong,FALSE,JL van der Velde,The Netherlands,,,,,FALSE,No,
+IBEUR,,,,FALSE,,,,,,,,,,,,,
+PAR,,,,FALSE,,,,,,,,,,,,,
+SEUR,,,,FALSE,,,,,,,,,,,,,

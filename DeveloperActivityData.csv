@@ -1,8 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Testnet holders (Arbitrum One Goerli),,,,,,,,6,,,,,
-Testnet holders (Avalanche Fuji),,,,,,,,277218,,,,,
-Testnet holders (Ethereum Goerli),,,,,3,,,32,,,,,
-Testnet holders (Ethereum Sepolia),,,,,,,,3,,,,,
-Testnet holders (GEN-X Testnet for Gaia-X Web3 ecosystem),,,,,,,,198,,,,,
-Testnet holders (Polygon Mumbai),,,,,422,,,56,,,,,
-Testnet holders (total),,0,0,0,425,0,0,277513,0,0,0,0,0
+Ticker,TestnetHoldersArbitrumOneGoerli,TestnetHoldersAvalancheFuji,TestnetHoldersEthereumGoerli,TestnetHoldersEthereumSepolia,TestnetHoldersGenXTestnetForGaiaXWeb3Ecosystem,TestnetHoldersPolygonMumbai,TestnetHoldersTotal
+_DataDescription,"Number of testnet token holders, native token issuance only","Number of testnet token holders, native token issuance only","Number of testnet token holders, native token issuance only","Number of testnet token holders, native token issuance only","Number of testnet token holders, native token issuance only","Number of testnet token holders, native token issuance only",Number of testnet token holders on all networks the token is natively issued on
+_DataType,Int,Int,Int,Int,Int,Int,Int
+agEUR,,,,,,,
+CEUR,,,,,,,
+EURCV,,,,,,,
+EURe,,,3,,,422,
+EURL,,,,,,,
+EUROC,,,,,,,
+EUROe,6,277218,32,3,198,56,277513
+EURS,,,,,,,
+EURT,,,,,,,
+IBEUR,,,,,,,
+PAR,,,,,,,
+SEUR,,,,,,,

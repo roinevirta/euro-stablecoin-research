@@ -1,16 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Algorand,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Alogrand data only.,,,,7881,,,,10000,,,,
-Arbitrum One,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Arbitrum One data only.,1444992,,,,,,96873,,,,,
-Avalanche C-Chain,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Avalanche C-Chain data only.,,,,,,1559997,10020,,,,,
-Binance Smart Chain,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Binance Smart Chain data only.,,,,,,,,,,,,
-Celo,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Celo data only.,,14510000,,,,,,,,,,
-Ethereum,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Ethereum data only.,15500000,,,3411677,6010,38320000,987773,38950000,34270000,15500000,4133549,4533285
-Fantom,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Fantom data only.,,,,,,,,,,,,
-Gnosis,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Gnosis data only.,,,,4076430,,,,,,,,
-Omni,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Omni data only.,,,,,,,,,105530000,,,
-Optimism,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Optimism data only.,1058926,,,,,,,,,,,453251
-Polygon,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Polygon data only.,,,,1213326,,,67921,,,,,
-Solana,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Solana data only.,,,,,,,,,,,,
-Tezos,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Tezos data only.,,,,,3650000,,,,,,,
-Tron,Circulating amount of the stablecoin. Calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens. Tron data only.,,,,,,,,,,,,
-X_TOTALS,Circulating amount of the stablecoin. Calculated as the sum of other market capitalisation figures. Excludes bridged tokens.,18003918,14510000,0,8709314,3656010,39879997,1162587,38960000,139800000,15500000,4133549,4986536
+Ticker,Algorand,ArbitrumOne,AvalancheCChain,BinanceSmartChain,Celo,Ethereum,Fantom,Gnosis,Omni,Optimism,Polygon,Solana,Tezos,Tron,XTotal
+_DataDescription,,,,,,,,,,,,,,,
+_DataType,Float,Float,Float,Float,Float,Float,Float,,,,,,,,
+agEUR,,1444992,,,,15500000,,,,1058926,,,,,18003918
+CEUR,,,,,14510000,,,,,,,,,,14510000
+EURCV,,,,,,10000000,,,,,,,,,10000000
+EURe,7881,,,,,3411677,,4076430,,,1213326,,,,8709314
+EURL,,,,,,6010,,,,,,,3650000,,3656010
+EUROC,,,1559997,,,38320000,,,,,,,,,39879997
+EUROe,,96873,10020,,,987773,,,,,67921,,,,1162587
+EURS,10000,,,,,38950000,,,,,,,,,38960000
+EURT,,,,,,34270000,,,105530000,,,,,,139800000
+IBEUR,,,,,,15500000,,,,,,,,,15500000
+PAR,,,,,,4133549,,,,,,,,,4133549
+SEUR,,,,,,4533285,,,,453251,,,,,4986536

@@ -1,5 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Backing quality,,,,100% cash,100% cash/bonds + 2% CET1 capital,,Cash + Bonds,100% cash/bonds + 2% CET1 capital,100% cash,,,,
-Internal auditor,,,,,None,,None,KPMG,BDO Malta,None,,,
-Banking & investment partners,,,,Societe Generale,,,Bank of New York Mellon,Osuuspankki; Bank Frick,EXT LTD;XNT LTD;UAB NexPay,,,,
-Banking & investment partners domicile,Domicile of banking & investment partners in the same order as above,,,France,,,USA,Finland; Liechtenstein,Cyprus;Malta;Lithuania,,,,
+Ticker,BackingQuality,InternalAuditors,BankingAndInvestmentPartners,BankingAndInvestmentPartnersDomicile
+_DataDescription,How are the reserves backed,Names of internal auditors. Empty list means none.,Names of banking and investment partners,Domicile of banking & investment partners in the same order as the previous column
+_DataType,String,List,List,List
+agEUR,,,,
+CEUR,,,,
+EURCV,100% cash,,"[""Societe Generale""]","[""France""]"
+EURe,100% cash/bonds + 2% CET1 capital,"[""""]",,
+EURL,,,,
+EUROC,Cash + Bonds,"[""""]","[""Bank of New York Mellon""]","[""USA""]"
+EUROe,100% cash/bonds + 2% CET1 capital,"[""KPMG""]","[""Osuuspankki"";""Bank Frick""]","[""Finland"";""Liechtenstein""]"
+EURS,100% cash,"[""BDO Malta""]","[""EXT LTD"";""XNT LTD"";""UAB NexPay""]","[""Cyprus"";""Malta"";""Lithuania""]"
+EURT,,"[""""]",,
+IBEUR,,,,
+PAR,,,,
+SEUR,,,,

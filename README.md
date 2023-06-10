@@ -40,9 +40,26 @@ The database includes the following tables:
 - DeveloperActivityData: information related to developer activity metrics
 - IssuerData: information directly related to the issuer and to the regulatory and legal aspects of the issuer and the stablecoin
 - MarketCapitalisationData: information about the total number of stablecoins issued
+-- Market cap is calculated as tokens issued less unreleased tokens less blocklisted tokens. Excludes bridged tokens.
 - ReserveData: information related to the backing and the auditing of the backing assets for fiat stablecoins + information regarding the mechanisms of non-fiat stablecoins
 - SecurityData: information regarding the technical security practices of the stablecoin
 - TokenInformation: information regarding the technical implementation of the token, for example addresses on which the token is implemented at
+
+### Metadata tables
+
+Metadata tables provide information about the source, date, and person adding the information. They follow exactly the same format as their non-metadata counterpart; for example the metadata cell at (3,3) corresponds to the data in cell (3,3) in the original data table.
+
+Metadata tables contain information in the following format: [[person,date,source],[person,date,source]]
+- `person` is the github username of the person who made the latest edit
+- `date` is the date at which the source of data was accessed (in YYYYMMDD format)
+- `source` is the URL from which the data was obtained. For offline data this is an APA style reference.
+
+If more than one people corrobarate the same data point, the second person should add their entry to the list of lists.
+
+Examples:
+- One person adds a metadata source: [[roinevirta,20231006,https://twitter.com/roinevirta]]
+- The person finds another source that supports the information: [[roinevirta,20231006,https://google.com],[roinevirta,20231007,http://wikipedia.org]]
+- Second person finds another source that supports the claim: [[roinevirta,20231006,https://google.com],[roinevirta,20231007,http://wikipedia.org],[githubuser,20231028,]]
 
 ## Tips
 

@@ -1,8 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Anyone can use it,,,,No (all parties must be whitelisted),Yes,,Yes,Yes,Yes,Yes,,,
-Account types,,,,Institutional,Corporate;Retail,,Corporate,Institutional;Corporate,Corporate;Retail,Corporate,,,
-Fees: mint fee,,,,,0,,0,0,,,,,
-Fees: burn fee,,,,,0,,0,0,,,,,
-Fees: transaction fee,,,,,0,,0,0,0.10%,0.10%,,,
-Fees: minimum fee,,,,,0,,0,0,,,,,
-Fees: other fees,,,,,0,,Yes,0,Yes,Yes,,,
+Ticker,AnyoneCanUseIt,AccountTypes,FeesMintFee,FeesBurnFee,FeesTransactionFee,FeesMinimumFee,FeesOtherFees
+_DataDescription,,,,Transaction fee in percentages (float: e.g. 1% = 0.01),,,
+_DataType,String,List,Float,Float,Float,Float,Bool
+agEUR,Yes,["None"],,,,,
+CEUR,,,,,,,
+EURCV,No (all parties must be whitelisted),["Institutional"],,,,,
+EURe,Yes,["Corporate";"Retail"],0,0,0,0,0
+EURL,,,,,,,
+EUROC,Yes,["Corporate"],0,0,0,0,True
+EUROe,Yes,["Institutional";"Corporate"],0,0,0,0,0
+EURS,Yes,["Corporate"],,,0.001,,True
+EURT,Yes,["Corporate"],,,0.001,,True
+IBEUR,,,,,,,
+PAR,,,,,,,
+SEUR,,,,,,,
