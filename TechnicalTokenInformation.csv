@@ -1,5 +1,5 @@
 _Ticker,TokenAddress,TestnetTokenAddress,RepositoryAddress,TokenIconAddress,MintAuthority,SmartContractAuditors
-_DataDescription,List of tuples containing the network name and the address of the token,List of tuples containing the network name and the address of the token on testnets,URL of the address containing token or other relevant contracts,URL of the token icon,Description of how mints are authorised,Names of smart contract auditors,
+_DataDescription,List of tuples containing the network name and the address of the token,List of tuples containing the network name and the address of the token on testnets,URL of the address containing token or other relevant contracts,URL of the token icon,Description of how mints are authorised,Names of smart contract auditors
 _DataType,List,List,String,String,String,List,
 agEUR,,,https://github.com/AngleProtocol,,,,
 CEUR,,,,,,,
