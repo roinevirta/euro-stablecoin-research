@@ -1,5 +1,5 @@
 _Ticker,ReleaseYear,StablecoinType,WhitepaperURL,RegulatoryFramework,IsMiCACompliant,MiCATokenType
-_DataDescription,Year in which the token was released,FiatBacked,CryptoBacked,Algorithmic,URL at which the whitepaper of the token whitepaper is available at,Name of the regulatory framework under which the token is issued,True if the token is MiCA compliant,Description of how the issuer's tokens are regulated under MiCA (e.g. ART or EMT)
+_DataDescription,Year in which the token was released,FiatBacked;CryptoBacked;Algorithmic,URL at which the whitepaper of the token whitepaper is available at,Name of the regulatory framework under which the token is issued,True if the token is MiCA compliant,Description of how the issuer's tokens are regulated under MiCA (e.g. ART or EMT)
 _DataType,Int,String,String,String,String,String
 agEUR,,CryptoBacked,https://docs.angle.money/overview/whitepapers,,,
 CEUR,,,,,,
