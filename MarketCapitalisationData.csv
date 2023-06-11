@@ -1,4 +1,4 @@
-Ticker,Algorand,ArbitrumOne,AvalancheCChain,BinanceSmartChain,Celo,Ethereum,Fantom,Gnosis,Omni,Optimism,Polygon,Solana,Tezos,Tron,XTotal
+_Ticker,Algorand,ArbitrumOne,AvalancheCChain,BinanceSmartChain,Celo,Ethereum,Fantom,Gnosis,Omni,Optimism,Polygon,Solana,Tezos,Tron,XTotal
 _DataDescription,,,,,,,,,,,,,,,
 _DataType,Float,Float,Float,Float,Float,Float,Float,,,,,,,,
 agEUR,,1444992,,,,15500000,,,,1058926,,,,,18003918

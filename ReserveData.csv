@@ -1,4 +1,4 @@
-Ticker,BackingQuality,InternalAuditors,BankingAndInvestmentPartners,BankingAndInvestmentPartnersDomicile
+_Ticker,BackingQuality,InternalAuditors,BankingAndInvestmentPartners,BankingAndInvestmentPartnersDomicile
 _DataDescription,How are the reserves backed,Names of internal auditors. Empty list means none.,Names of banking and investment partners,Domicile of banking & investment partners in the same order as the previous column
 _DataType,String,List,List,List
 agEUR,,,,

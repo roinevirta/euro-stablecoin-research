@@ -1,4 +1,4 @@
-Ticker,TestnetHoldersArbitrumOneGoerli,TestnetHoldersAvalancheFuji,TestnetHoldersEthereumGoerli,TestnetHoldersEthereumSepolia,TestnetHoldersGenXTestnetForGaiaXWeb3Ecosystem,TestnetHoldersPolygonMumbai,TestnetHoldersTotal
+_Ticker,TestnetHoldersArbitrumOneGoerli,TestnetHoldersAvalancheFuji,TestnetHoldersEthereumGoerli,TestnetHoldersEthereumSepolia,TestnetHoldersGenXTestnetForGaiaXWeb3Ecosystem,TestnetHoldersPolygonMumbai,TestnetHoldersTotal
 _DataDescription,Number of testnet token holders, native token issuance only,Number of testnet token holders, native token issuance only,Number of testnet token holders, native token issuance only,Number of testnet token holders, native token issuance only,Number of testnet token holders, native token issuance only,Number of testnet token holders, native token issuance only,Number of testnet token holders on all networks the token is natively issued on
 _DataType,Int,Int,Int,Int,Int,Int,Int
 agEUR,,,,,,,

@@ -2,6 +2,8 @@
 
 This repository aims to serve as an authorative source of information regarding euro stablecoins. Data in this repository should be objective and not make subjective comments. Users of the data may add their own commentary.
 
+Please note that we distinguish between tokens and issuers. One issuer may issue many tokens and they may be regulated under different rules or be otherwise materially different.
+
 
 ## How to contribute?
 
