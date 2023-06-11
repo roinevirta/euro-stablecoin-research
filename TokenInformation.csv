@@ -1,14 +1,15 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Testnet token address (Arbitrum One Goerli),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0xCD99B575d0D3c83171cADEfa9149cE46BEB959fE,,,,,
-Testnet token address (Avalanche Fuji),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0xA089a21902914C3f3325dBE2334E9B466071E5f1,,,,,
-Testnet token address (Ethereum Goerli),Token address of natively issued token. Do not enter bridged token information.,,,,0x0752d64e0186808cb7be2011b3991dc7d2268357,,,0xA089a21902914C3f3325dBE2334E9B466071E5f1,,,,,
-Testnet token address (Ethereum Sepolia),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0xA089a21902914C3f3325dBE2334E9B466071E5f1,,,,,
-Testnet token address (GEN-X Testnet for Gaia-X Web3 ecosystem),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0xe974c4894996E012399dEDbda0bE7314a73BBff1,,,,,
-Testnet token address (Polygon Mumbai),Token address of natively issued token. Do not enter bridged token information.,,,,0xCF487EFd00B70EaC8C28C654356Fb0E387E66D62,,,0xA089a21902914C3f3325dBE2334E9B466071E5f1,,,,,
-Token address (Arbitrum One),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0xcF985abA4647a432E60efcEeB8054BBd64244305,,,,,
-Token address (Avalanche C-Chain),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
-Token address (Ethereum),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
-Token address (Gnosis),Token address of natively issued token. Do not enter bridged token information.,,,,,,,0x820802Fa8a99901F52e39acD21177b0BE6EE2974,,,,,
-Token address (Polygon),Token address of natively issued token. Do not enter bridged token information.,,,,,,,,,,,,
-Repository address,URL of the address containing token or other relevant contracts,https://github.com/AngleProtocol,,,https://github.com/monerium/smart-contracts,,,https://github.com/membranefi/euroe-stablecoin,,,,,
-Token icon address,URL of the token icon,,,,,,,https://dev.euroe.com/persistent/token-icon/svg/256x256.svg,,,,,
+_Ticker,ReleaseYear,StablecoinType,WhitepaperURL,RegulatoryFramework,IsMiCACompliant,MiCATokenType
+_DataDescription,Year in which the token was released,"FiatBacked,CryptoBacked,Algorithmic",URL at which the whitepaper of the token whitepaper is available at,Name of the regulatory framework under which the token is issued,True if the token is MiCA compliant,"Description of how the issuer's tokens are regulated under MiCA (e.g. ""ART"" or ""EMT"")"
+_DataType,Int,String,String,String,String,String
+agEUR,,CryptoBacked,https://docs.angle.money/overview/whitepapers,,,
+CEUR,,,,,,
+EURCV,2023,FiatBacked,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,CAST Framework,,
+EURe,2019,FiatBacked,,Electronic Money Institution,Likely,
+EURL,,,,,,
+EUROC,2022,FiatBacked,,,No,
+EUROe,2023,FiatBacked,,Electronic Money Institution,Yes,EMT
+EURS,2018,FiatBacked,,,No,
+EURT,2020,FiatBacked,,,No,
+IBEUR,,,,,,
+PAR,,,,,,
+SEUR,,,,,,

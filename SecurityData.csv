@@ -1,3 +1,0 @@
-Data point,Data description,agEUR,CEUR,EURCV,EURe,EURL,EUROC,EUROe,EURS,EURT,IBEUR,PAR,SEUR
-Mint authority,,,,EOA with unlimited allowance,EOA with unlimited allowance,,Smart contract controlled minters with allowances,MPC,3/7 multi-sig (unknown signers),3/6 multi-sig (Bitfinex controlled),,,
-Smart contract auditors,,,,PwC France,None,,None,Peckshield;Runtime Verification,CoinFabrik,None,,,
