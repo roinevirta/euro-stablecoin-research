@@ -1,0 +1,4 @@
+_GitHubUsername,Name,Role,Twitter,LinkedIn,OtherLink,ConflictOfInterestDisclosures
+_DataDescription,Full name of the person,Role of person in this repository,URL of Twitter account,URL of LinkedIn account,Other URL,
+_DataType,String,String,String,String,String,String
+roinevirta,Juuso Roinevirta,Maintainer,https://twitter.com/roinevirta,https://www.linkedin.com/in/roinevirta/,,I work for Membrane Finance which issues EUROe
