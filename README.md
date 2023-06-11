@@ -43,6 +43,7 @@ Roles
 - Empty entries are considered unknown
 - Semi-colon (;) is used to separate lists within a cell
 - Dot (.) is used as a decimal separator
+- Dot may be used to categorise data point names (e.g. two data points related to the CEO could be `CEO.Name` & `CEO.Age`)
 
 The first row of a file contains the name of the data point, the second a description regarding the data point, the third a description of which type of data is expected in the cell. Stablecoin data then starts from the fourth row. To add a new stablecoin, simply add a new row to all the relevant data tables.
 

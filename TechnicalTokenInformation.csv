@@ -1,15 +1,15 @@
-_Ticker,TokenAddress,TestnetTokenAddress,RepositoryAddress,TokenIconAddress,MintAuthority,SmartContractAuditors,
-_DataDescription,List of tuples containing the network name and the address of the token,List of tuples containing the network name and the address of the token on testnets,URL of the address containing token or other relevant contracts,URL of the token icon,Description of how mints are authorised,Names of smart contract auditors,
-_DataType,List,List,String,String,String,List,
-agEUR,,,https://github.com/AngleProtocol,,,,
-CEUR,,,,,,,
-EURCV,,,,,EOA with unlimited allowance,[PwC France],
-EURe,,[(EthereumGoerli;0x0752d64e0186808cb7be2011b3991dc7d2268357),(PolygonMumbai;0xCF487EFd00B70EaC8C28C654356Fb0E387E66D62)],,,EOA with unlimited allowance,[]
-EURL,,,,,,,
-EUROC,,,,Smart contract controlled minters with allowances,[],,
-EUROe,[(ArbitrumOne;0xcF985abA4647a432E60efcEeB8054BBd64244305);(AvalancheCChain;0x820802Fa8a99901F52e39acD21177b0BE6EE2974);(Ethereum;0x820802Fa8a99901F52e39acD21177b0BE6EE2974);(Polygon;0x820802Fa8a99901F52e39acD21177b0BE6EE2974)],[(ArbitrumOneGoerli;0xCD99B575d0D3c83171cADEfa9149cE46BEB959fE);(AvalancheFuji;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(EthereumGoerli;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(EthereumSepolia;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(GenXTestnet;0xe974c4894996E012399dEDbda0bE7314a73BBff1);(PolygonMumbai;0xA089a21902914C3f3325dBE2334E9B466071E5f1)],https://github.com/membranefi/euroe-stablecoin,https://dev.euroe.com/persistent/token-icon/svg/256x256.svg,MPC,[Peckshield;Runtime Verification],
-EURS,,,,,3/7 multi-sig (unknown signers),[CoinFabrik],
-EURT,,,,,3/6 multi-sig (Bitfinex controlled),[],
-IBEUR,,,,,,,
-PAR,,,,,,,
-SEUR,,,,,,,
+_Ticker,TokenAddress,TestnetTokenAddress,RepositoryAddress,TokenIconAddress,MintAuthority,SmartContractAuditors
+_DataDescription,List of tuples containing the network name and the address of the token,List of tuples containing the network name and the address of the token on testnets,URL of the address containing token or other relevant contracts,URL of the token icon,Description of how mints are authorised,Names of smart contract auditors
+_DataType,List,List,String,String,String,List
+agEUR,,,https://github.com/AngleProtocol,,,
+CEUR,,,,,,
+EURCV,,,,,EOA with unlimited allowance,[PwC France]
+EURe,,[(EthereumGoerli;0x0752d64e0186808cb7be2011b3991dc7d2268357),(PolygonMumbai;0xCF487EFd00B70EaC8C28C654356Fb0E387E66D62)],,EOA with unlimited allowance,[
+EURL,,,,,,
+EUROC,,,,Smart contract controlled minters with allowances,[],
+EUROe,[(ArbitrumOne;0xcF985abA4647a432E60efcEeB8054BBd64244305);(AvalancheCChain;0x820802Fa8a99901F52e39acD21177b0BE6EE2974);(Ethereum;0x820802Fa8a99901F52e39acD21177b0BE6EE2974);(Polygon;0x820802Fa8a99901F52e39acD21177b0BE6EE2974)],[(ArbitrumOneGoerli;0xCD99B575d0D3c83171cADEfa9149cE46BEB959fE);(AvalancheFuji;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(EthereumGoerli;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(EthereumSepolia;0xA089a21902914C3f3325dBE2334E9B466071E5f1);(GenXTestnet;0xe974c4894996E012399dEDbda0bE7314a73BBff1);(PolygonMumbai;0xA089a21902914C3f3325dBE2334E9B466071E5f1)],https://github.com/membranefi/euroe-stablecoin,https://dev.euroe.com/persistent/token-icon/svg/256x256.svg,MPC,[Peckshield;Runtime Verification]
+EURS,,,,,3/7 multi-sig (unknown signers),[CoinFabrik]
+EURT,,,,,3/6 multi-sig (Bitfinex controlled),[]
+IBEUR,,,,,,
+PAR,,,,,,
+SEUR,,,,,,
