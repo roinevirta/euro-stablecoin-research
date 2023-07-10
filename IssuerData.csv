@@ -1,15 +1,16 @@
-_Ticker,Issuer,IncorporationYear,IssuerIsPubliclyTraded,PublicTradedExchange,PublicTradedExchangeTicker,DomiciledIn,IsEUDomiciled,CEO.NameOf,CEO.NationalityOrCountryOfBirthOf,WhitepaperURL,Licence.Name,Licence.ID,Licence.WeblinkToRegulatorService,Regulation.IsEURegulated
-_DataDescription,Name of the legal entity issuing the token,Year on which the issuer was incorporated,True if the issuer is publicly traded,Name of the exchange on which the issuer is listed,Ticker of the issuer on the exchange on which the issuer is listed,Country or jurisdiction in which the issuer is domiciled in,True if the issuer is domiciled in the EU,Full name of the CEO,Nationality of the CEO; Country of Birth if nationality is unknown,URL at which the whitepaper of the issuer is available at,Name of the licence the issuer has,Identifier related to the licence of a regulated actor,URL of a service provided by a relevant regulatory authority to check the authenticity of licence information,True if the issuer is regulated under EU law
-_DataType,String,Int,Bool,String,String,String,Bool,String,String,String,String,String,String,Bool
-agEUR,,,FALSE,,,,,,,https://docs.angle.money/overview/whitepapers,,,,
-CEUR,,,,,,,,,,,,,,
-EURCV,SG FORGE,,FALSE,,,France,FALSE,Jean-Marc Stenger,France,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,,,,
-EURe,Monerium EMI ehf,,FALSE,,,Iceland,FALSE,Sveinn Valfells,Iceland,,Electronic Money Institution,571110-0240,https://en.fme.is/supervision/supervised-entities/,TRUE
-EURL,,,FALSE,,,,,,,,,,,
-EUROC,Circle Internet Financial, LLC,,,,,USA,FALSE,Jeremy Allaire,USA,,,,,FALSE
-EUROe,Membrane Finance Oy,2021,FALSE,,,Finland,TRUE,Juha Viitala,Finland,,Electronic Money Institution,32368862,https://euclid.eba.europa.eu/register/pir/view/PSD_EMI/FI_FIN_FSA!32368862,TRUE
-EURS,STSS Limited,,FALSE,,,Isle of Man,FALSE,Gregory Klumov,Russia,,,,,FALSE
-EURT,Tether Operations Limited,,FALSE,,,Hong Kong,FALSE,JL van der Velde,The Netherlands,,,,,FALSE
-IBEUR,,,FALSE,,,,,,,,,,,
-PAR,,,FALSE,,,,,,,,,,,
-SEUR,,,FALSE,,,,,,,,,,,
+_Ticker,Issuer,IncorporationYear,IssuerIsPubliclyTraded,PublicTradedExchange,PublicTradedExchangeTicker,DomiciledIn,IsEUDomiciled,CEO.NameOf,CEO.NationalityOrCountryOfBirthOf,WhitepaperURL,Licence.Name,Licence.ID,Licence.WeblinkToRegulatorService,Regulation.IsEURegulated,
+_DataDescription,Name of the legal entity issuing the token,Year on which the issuer was incorporated,True if the issuer is publicly traded,Name of the exchange on which the issuer is listed,Ticker of the issuer on the exchange on which the issuer is listed,Country or jurisdiction in which the issuer is domiciled in,True if the issuer is domiciled in the EU,Full name of the CEO,Nationality of the CEO; Country of Birth if nationality is unknown,URL at which the whitepaper of the issuer is available at,Name of the licence the issuer has,Identifier related to the licence of a regulated actor,URL of a service provided by a relevant regulatory authority to check the authenticity of licence information,True if the issuer is regulated under EU law,
+_DataType,String,Int,Bool,String,String,String,Bool,String,String,String,String,String,String,Bool,
+agEUR,,,FALSE,,,,,,,https://docs.angle.money/overview/whitepapers,,,,,
+jEUR,,,,,,,,,,https://drive.google.com/file/d/1WGK2yHG9C_IPXeZkH94jnSliYyQY0xVi/view,,,,,
+CEUR,,,,,,,,,,,,,,,
+EURCV,SG FORGE,,FALSE,,,France,FALSE,Jean-Marc Stenger,France,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,,,,,
+EURe,Monerium EMI ehf,,FALSE,,,Iceland,FALSE,Sveinn Valfells,Iceland,,Electronic Money Institution,571110-0240,https://en.fme.is/supervision/supervised-entities/,TRUE,
+EURL,,,FALSE,,,,,,,,,,,,
+EUROC,Circle Internet Financial," LLC",,,,,USA,FALSE,Jeremy Allaire,USA,,,,,FALSE
+EUROe,Membrane Finance Oy,2021,FALSE,,,Finland,TRUE,Juha Viitala,Finland,,Electronic Money Institution,32368862,https://euclid.eba.europa.eu/register/pir/view/PSD_EMI/FI_FIN_FSA!32368862,TRUE,
+EURS,STSS Limited,,FALSE,,,Isle of Man,FALSE,Gregory Klumov,Russia,,,,,FALSE,
+EURT,Tether Operations Limited,,FALSE,,,Hong Kong,FALSE,JL van der Velde,The Netherlands,,,,,FALSE,
+IBEUR,,,FALSE,,,,,,,,,,,,
+PAR,,,FALSE,,,,,,,,,,,,
+SEUR,,,FALSE,,,,,,,,,,,,

@@ -1,7 +1,8 @@
 _Ticker,TokenAddress,TestnetTokenAddress,RepositoryAddress,TokenIconAddress,MintAuthority,SmartContractAuditors
 _DataDescription,List of tuples containing the network name and the address of the token,List of tuples containing the network name and the address of the token on testnets,URL of the address containing token or other relevant contracts,URL of the token icon,Description of how mints are authorised,Names of smart contract auditors
 _DataType,List,List,String,String,String,List
-agEUR,,,https://github.com/AngleProtocol,,,
+agEUR,[(Ethereum;0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8);(Polygon;0xe0b52e49357fd4daf2c15e02058dce6bc0057db4);(Optimism;0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED);(ArbitrumOne:0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7);(AvalancheCChain:0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57)],,https://github.com/AngleProtocol,,,
+jEUR,[(Polygon;0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c)],,https://gitlab.com/jarvis-network/apps/exchange/mono-repo,,,
 CEUR,,,,,,
 EURCV,,,,,EOA with unlimited allowance,[PwC France]
 EURe,,[(EthereumGoerli;0x0752d64e0186808cb7be2011b3991dc7d2268357),(PolygonMumbai;0xCF487EFd00B70EaC8C28C654356Fb0E387E66D62)],,EOA with unlimited allowance,[

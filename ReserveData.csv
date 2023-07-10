@@ -1,8 +1,9 @@
 _Ticker,BackingQuality,InternalAuditors,BankingAndInvestmentPartners,BankingAndInvestmentPartnersDomicile
 _DataDescription,How are the reserves backed,Names of internal auditors. Empty list means none.,Names of banking and investment partners,Domicile of banking & investment partners in the same order as the previous column
 _DataType,String,List,List,List
-agEUR,,,,
-CEUR,,,,
+agEUR,Crypto-Assets,,[onchain Reserves],
+jEUR,Crypto-Assets,,[onchain Reserves],
+CEUR,Crypto-Assets,,[onchain Reserves],
 EURCV,100% cash,,[Societe Generale],[France]
 EURe,100% cash/bonds + 2% CET1 capital,[],,
 EURL,,,,

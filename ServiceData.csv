@@ -1,7 +1,8 @@
 _Ticker,AnyoneCanUseIt,AccountTypes,Fees.MintFee,Fees.BurnFee,Fees.TransactionFee,Fees.MinimumFee,Fees.OtherFees
 _DataDescription,,,,Transaction fee in percentages (float: e.g. 1% = 0.01),,,
 _DataType,String,List,Float,Float,Float,Float,Bool
-agEUR,Yes,[None],,,,,
+agEUR,Yes,[None],,,0,0.001,
+jEUR,Yes,[None],,,0,,
 CEUR,,,,,,,
 EURCV,No (all parties must be whitelisted),[Institutional],,,,,
 EURe,Yes,[Corporate;Retail],0,0,0,0,0
