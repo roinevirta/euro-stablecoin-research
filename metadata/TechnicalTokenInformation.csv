@@ -1,7 +1,8 @@
 _Ticker,TokenAddress,TestnetTokenAddress,RepositoryAddress,TokenIconAddress,MintAuthority,SmartContractAuditors
 _DataDescription,,,,,,
 _DataType,,,,,,
-agEUR,,,,,,
+agEUR,[https://developers.angle.money/overview/smart-contracts/mainnet-contracts;https://developers.angle.money/overview/smart-contracts/polygon;https://developers.angle.money/overview/smart-contracts/optimism;https://developers.angle.money/overview/smart-contracts/arbitrum;https://developers.angle.money/overview/smart-contracts/avalanche],,,,,
+jEUR,[https://polygonscan.com/token/0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c],,,,,
 CEUR,,,,,,
 EURCV,,,,,,
 EURe,,,,,,
