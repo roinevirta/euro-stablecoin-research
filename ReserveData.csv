@@ -4,7 +4,7 @@ _DataType,String,List,List,List
 agEUR,Crypto-Assets,,[onchain Reserves],
 CEUR,Crypto-Assets,,[onchain Reserves],
 EURCV,100% cash,,[Societe Generale],[France]
-EURe,AAA-rated short duration instruments + 2% CET1 capital,[],[Undisclosed global asset manager;Undisclosed bank;Easy Payment & Finance],[Ireland;Estonia;Spain]
+EURe,AAA-rated short duration instruments + 2% CET1 capital,[],[State Street;Undisclosed bank;Easy Payment & Finance],[Ireland;Estonia;Spain]
 EURL,,,,
 EUROC,Cash + Bonds,[],[Bank of New York Mellon],[USA]
 EUROe,100% cash/bonds + 2% CET1 capital,[KPMG],[Osuuspankki;Bank Frick],[Finland;Liechtenstein]
