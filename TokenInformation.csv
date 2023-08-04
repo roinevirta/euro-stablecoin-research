@@ -1,16 +1,16 @@
-_Ticker,ReleaseYear,StablecoinType,WhitepaperURL,RegulatoryFramework,MiCA.IsCompliant,MiCA.TokenType
-_DataDescription,Year in which the token was released,FiatBacked;CryptoBacked;Algorithmic,URL at which the whitepaper of the token whitepaper is available at,Name of the regulatory framework under which the token is issued,True if the token is MiCA compliant,Description of how the issuer's tokens are regulated under MiCA (e.g. ART or EMT)
-_DataType,Int,String,String,String,String,String
-agEUR,2021,CryptoBacked,https://docs.angle.money/overview/whitepapers,,,
-CEUR,,,,,,
-EURCV,2023,FiatBacked,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,CAST Framework,,
-EURe,2019,FiatBacked,,Electronic Money Institution,Likely,
-EURL,,,,,,
-EUROC,2022,FiatBacked,,,No,
-EUROe,2023,FiatBacked,,Electronic Money Institution,Yes,EMT
-EURS,2018,FiatBacked,,,No,
-EURT,2020,FiatBacked,,,No,
-IBEUR,,,,,,
-jEUR,2021,CryptoBacked,https://jarvis.network/protocol.html,,,
-PAR,,,,,,
-SEUR,,,,,,
+_Ticker,ReleaseYear,StablecoinType,WhitepaperURL,RegulatoryFramework,MiCA.IsCompliant,MiCA.TokenType,Bluechip.Grade,Bluechip.S,Bluechip.M,Bluechip.I,Bluechip.D,Bluechip.G,Bluechip.E
+_DataDescription,Year in which the token was released,FiatBacked;CryptoBacked;Algorithmic,URL at which the whitepaper of the token whitepaper is available at,Name of the regulatory framework under which the token is issued,True if the token is MiCA compliant,Description of how the issuer's tokens are regulated under MiCA (e.g. ART or EMT),Bluechip's grade for the token. For more information about Bluechip see bluechip.org,Bluechip's stability score,Bluechip's management score,Bluechip's implementation score,Bluechip's decentralisation score,Bluechip's governance score,Bluechip's externals score
+_DataType,Int,String,String,String,String,String,String,,,,,,
+agEUR,2021,CryptoBacked,https://docs.angle.money/overview/whitepapers,,,,,,,,,,
+CEUR,,,,,,,,,,,,,
+EURCV,2023,FiatBacked,https://www.sgforge.com/wp-content/uploads/2023/04/SGF_Coinvertible_White-Paper-v1.0.pdf,CAST Framework,,,,,,,,,
+EURe,2019,FiatBacked,,Electronic Money Institution,Likely,,,,,,,,
+EURL,,,,,,,,,,,,,
+EUROC,2022,FiatBacked,,,No,,,,,,,,
+EUROe,2023,FiatBacked,,Electronic Money Institution,Yes,EMT,,,,,,,
+EURS,2018,FiatBacked,,,No,,,,,,,,
+EURT,2020,FiatBacked,,,No,,D,0.54,0.62,,0.3,0.29,
+IBEUR,,,,,,,,,,,,,
+jEUR,2021,CryptoBacked,https://jarvis.network/protocol.html,,,,,,,,,,
+PAR,,,,,,,,,,,,,
+SEUR,,,,,,,,,,,,,
