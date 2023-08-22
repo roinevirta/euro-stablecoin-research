@@ -109,6 +109,7 @@ We use abbreviations to refer to blockchains. Below are some of the abbreviation
 - `EthereumSepolia`: Ethereum Sepolia
 - `GenXTestnet`: GEN-X Testnet for Gaia-X Web3 ecosystem
 - `PolygonMumbai`: Polygon Mumbai
+- `SolanaDevnet`: Solana Devnet
 
 *Contributors: please use the abbreviations exactly. If you are adding a new network, please add its abbreviation here.*
 
