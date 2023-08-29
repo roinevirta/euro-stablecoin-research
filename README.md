@@ -101,6 +101,7 @@ We use abbreviations to refer to blockchains. Below are some of the abbreviation
 - `Solana`: Solana
 - `Tezos`: Tezos
 - `Tron`: Tron
+- `Q`: Q Protocol
 
 **Testnets**
 - `ArbitrumOneGoerli`: Arbitrum One Goerli
