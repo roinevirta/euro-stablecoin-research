@@ -14,3 +14,4 @@ IBEUR,,,,,,
 jEUR,[(Polygon;0x4e3Decbb3645551B8A19f0eA1678079FCB33fB4c)],,https://gitlab.com/jarvis-network/apps/exchange/mono-repo,,,
 PAR,,,,,,
 SEUR,,,,,,
+VEUR,[(Ethereum;0x6ba75d640bebfe5da1197bb5a2aff3327789b5d3);(Polygon;0xe4095d9372e68d108225c306a4491cacfb33b097);(Avalanche;0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b);(Q;0x513F99dEE650F529d7C65bb5679f092B64003520)],,,https://4183046207-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsAJThQfNCJePE5h9iplX%2Fuploads%2FDnTEARMBh9RF4gAaU1RZ%2FVEUR%20circle.png?alt=media&token=d41d81e4-346e-4697-b12c-e7fac5c082f8,EOA with possibility of setting allowance,[]
