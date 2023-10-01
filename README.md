@@ -99,6 +99,7 @@ We use abbreviations to refer to blockchains. Below are some of the abbreviation
 - `Optimism`: Optimism
 - `Polygon`: Polygon
 - `Solana`: Solana
+- `Stellar`: Stellar
 - `Tezos`: Tezos
 - `Tron`: Tron
 - `Q`: Q Protocol
