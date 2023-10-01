@@ -6,7 +6,7 @@ CEUR,,,,,,,
 EURCV,No (all parties must be whitelisted),[Institutional],,,,,
 EURe,Yes,[Corporate;Retail],0,0,0,0,0
 EURL,,,,,,,
-EUROC,Yes,[Corporate],0,0,0,0,True
+EURC,Yes,[Corporate],0,0,0,0,True
 EUROe,Yes,[Institutional;Corporate],0,0,0,0,0
 EURS,Yes,[Corporate],,,0.001,,True
 EURT,Yes,[Corporate],,,0.001,,True
