@@ -3,10 +3,10 @@ _DataDescription,How are the reserves backed,Names of internal auditors. Empty l
 _DataType,String,List,List,List
 agEUR,Crypto-Assets,,[onchain Reserves],
 CEUR,Crypto-Assets,,[onchain Reserves],
+EURC,Cash + Bonds,[],[Bank of New York Mellon],[USA]
 EURCV,100% cash,,[Societe Generale],[France]
 EURe,AAA-rated short duration instruments + 2% CET1 capital,[],[State Street;Undisclosed bank;Easy Payment & Finance],[Ireland;Estonia;Spain]
 EURL,,,,
-EURC,Cash + Bonds,[],[Bank of New York Mellon],[USA]
 EUROe,100% cash/bonds + 2% CET1 capital,[KPMG],[Osuuspankki;Bank Frick],[Finland;Liechtenstein]
 EURS,100% cash,[BDO Malta],[EXT LTD;XNT LTD;UAB NexPay],[Cyprus;Malta;Lithuania]
 EURT,,[],,
