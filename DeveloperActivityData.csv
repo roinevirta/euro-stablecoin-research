@@ -3,10 +3,10 @@ _DataDescription,,,,,,,,Number of testnet token holders on all networks the toke
 _DataType,Int,Int,Int,Int,Int,Int,,Int
 agEUR,,,,,,,,
 CEUR,,,,,,,,
+EURC,,,,,,,,
 EURCV,,,,,,,,
 EURe,,,3,,,443,,446
 EURL,,,,,,,,
-EUROC,,,,,,,,
 EUROe,6,278684,32,3,197,68,5,278995
 EURS,,,,,,,,
 EURT,,,,,,,,
